@@ -1,0 +1,3 @@
+Rose=5
+Tulip=4
+Peony=3.5
